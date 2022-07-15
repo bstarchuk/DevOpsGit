@@ -23,3 +23,5 @@ Group: $group
 Date: $dateNow
 Email: $email
 ENDOFFILE
+
+echo "New meassage on new branch"
